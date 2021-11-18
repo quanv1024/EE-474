@@ -9,7 +9,7 @@
   sequentially, then turn off in the same order.
 */
 
-#include "C:\Users\quanv\Documents\EE 474\EE 474 Labs\lab1\lab1.h"
+#include "../lab1.h"
 #include <stdint.h>
 
 // configure registers to use GPIO pins PF0, PF4, PN0, and PN1 as
