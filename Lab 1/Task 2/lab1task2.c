@@ -9,7 +9,7 @@
   to GPIO Poirt L of the TIVA board.
 */
 
-#include "C:\Users\quanv\Documents\EE 474\EE 474 Labs\lab1\lab1.h"
+#include "../lab1.h"
 #include "TrafficLight.h"
 #include <stdint.h>
 
