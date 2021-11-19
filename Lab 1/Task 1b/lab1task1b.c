@@ -9,7 +9,7 @@
   is pressed.
 */
 
-#include "C:\Users\quanv\Documents\EE 474\EE 474 Labs\lab1\lab1.h"
+#include "../lab1.h"
 #include <stdint.h>
 
 // configure registers to use GPIO pins PJ0, PJ4, PN0, and PN1 as
